@@ -1,0 +1,32 @@
+h1
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: cadetblue;
+    font-style: italic;
+    font-size: 34px;
+    
+    }
+    .int
+    {
+      width: fit-content;
+      height: 10%;
+      background-color: cadetblue;
+      margin-bottom: 2%;
+      font-style: oblique;
+
+    }
+    hr
+    {
+       
+    width: 50%;
+    
+    }
+    .ref
+    {
+        color: cadetblue;
+        width: fit-content;
+        height: fit-content;
+        background-color: black;
+    }
+
+    
